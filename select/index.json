@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "♡Ai or Die♡",
+  "base_artist": "魔界ノりりむ",
+  "createdAt": "2025-12-03T12:19:31.164612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ai or Die",
+      "artist": "Makaino Ririmu",
+      "has_synced": true,
+      "path": "select/01_Ai_or_Die_Makaino_Ririmu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♡Ai or Die♡",
+      "artist": "魔界ノりりむ",
+      "has_synced": false,
+      "path": "select/pl_01_♡Ai_or_Die♡_魔界ノりりむ.txt"
+    }
+  ]
+}
